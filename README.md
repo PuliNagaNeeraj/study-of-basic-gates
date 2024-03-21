@@ -74,9 +74,11 @@ RegisterNumber: 212223240130
 ![image](https://github.com/PuliNagaNeeraj/study-of-basic-gates/assets/138849173/baefb5a6-b1d2-4364-b33a-f4a5a56983ed)
 
  ![image](https://github.com/PuliNagaNeeraj/study-of-basic-gates/assets/138849173/3cf5e6cd-e4f2-4432-b70e-b4e6854d9524)
+ 
 **RTL realization Output**
 
 **RTL**
+
 ![image](https://github.com/PuliNagaNeeraj/study-of-basic-gates/assets/138849173/40e11fef-2a83-425c-8cf6-ae160c264554)
 
 **Result:**
